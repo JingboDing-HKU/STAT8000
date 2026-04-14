@@ -1,1 +1,1 @@
-# STAT8000
+# Black–Scholes Option Pricing in C++
